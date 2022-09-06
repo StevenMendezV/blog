@@ -9,3 +9,5 @@ Hoy hablaremos de su historia.
 Ahora tengo lentes y reacondicioné mi cuarto.
 
 Conseguiremos un trabajo, por ahora solo soy un estudiante.
+
+testeando el git reset head
